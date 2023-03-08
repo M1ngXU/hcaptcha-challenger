@@ -69,6 +69,9 @@ label_alias:
   dog_with_a_collar_on_its_neck:
     zh: [ "一条脖子上有项圈的狗" ]
     en: [ "dog with a collar on its neck" ]
+  dog_wearing_sunglasses:
+    zh: [ "戴墨镜的狗" ]
+    en: [ "dog wearing sunglasses" ]
 
   kitten:
     zh: [ "小猫", "一只小猫" ]
@@ -460,8 +463,29 @@ label_alias:
     zh: [ "戴眼镜的熊猫" ]
     en: [ "panda wearing glasses" ]
   cow_in_its_natural_environment:
-    zh: [ "母牛在其自然环境中" ]
+    zh: [ "母牛在其自然环境中", "自然环境中的奶牛" ]
     en: [ "cow in its natural environment" ]
+  someone_playing_football:
+    zh: [ "有人踢足球" ]
+    en: [ "someone playing football" ]
+  someone_playing_soccer:
+    zh: [ "有人踢足球" ]
+    en: [ "someone playing soccer" ]
+  robot:
+    zh: [ "机器人" ]
+    en: [ "robot" ]
+  hallway:
+    zh: [ "门厅" ]
+    en: [ "hallway" ]
+  car_tire:
+    zh: [ "汽车轮胎" ]
+    en: [ "car tire" ]
+  very_fast_car:
+    zh: [ "非常快的车" ]
+    en: [ "very fast car" ]
+  dog_t_shirt:
+    zh: [ "狗T恤" ]
+    en: [ "dog t-shirt" ]
 #  burning_fire_spot:
 #    zh: [""]
 #    en: ["burning fire spot like in the examples", "burning fire spot like in the eхamples"]  # contain badcode
